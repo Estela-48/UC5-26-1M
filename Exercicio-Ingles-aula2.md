@@ -1,6 +1,6 @@
 1- My brother is tired - My brother isn't tired.
 
-2- They are at school - They aren't ate school.
+2- They are at school - They aren't at school.
 
 3- I am very happy today - I am not very happy today.
 
