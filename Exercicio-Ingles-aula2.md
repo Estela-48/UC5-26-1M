@@ -1,16 +1,16 @@
-1- My brother is tired.
+1- My brother is tired - My brother isn't tired.
 
-2- They are at schoOl.
+2- They are at school - They aren't ate school.
 
-3- I am very happy today.
+3- I am very happy today - I am not very happy today.
 
-4- My dog is sleeping.
+4- My dog is sleeping - My dog isn't sleeping.
 
-5- Me is ready for the teste.
+5- We are ready for the teste - We aren't ready for the teste.
 
 6- You are my bets friend.
 
-7- The children is playing outside.
+7- The children are playing outside.
 
 8- I am from Brazil.
 
@@ -20,21 +20,21 @@
 
 11- My mother is in the kitchen.
 
-12- The teachers is in the classroom.
+12- The teachers are in the classroom.
 
 13- He is at home now.
 
-14- I am a good student.
+14- She is a good student.
 
 15- It is a beautiful day.
 
-16- My friends and I **am** excited.
+16- My friends and I are excited.
 
-17- The book **are** on the table.
+17- The book are on the table.
 
-18- I **am** hungry.
+18- I am hungry.
 
-19- You **are** very kind.
+19- You are very kind.
 
-20- My parents **are** at work.
+20- My parents are at work.
 
